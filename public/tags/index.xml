@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 0x7375646F</title>
+    <link>http://localhost:6969/tags/</link>
+    <description>Recent content in Tags on 0x7375646F</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 $sudo (0x7375646F)</copyright>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:6969/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Easy</title>
+      <link>http://localhost:6969/tags/easy/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:6969/tags/easy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:6969/tags/linux/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:6969/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:6969/tags/web/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:6969/tags/web/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

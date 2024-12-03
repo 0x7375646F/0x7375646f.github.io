@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0x7375646F</title>
+    <link>http://localhost:6969/</link>
+    <description>Recent content on 0x7375646F</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 $sudo (0x7375646F)</copyright>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:6969/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Valley Writeup - TryHackMe</title>
+      <link>http://localhost:6969/writeups/tryhackme/valley/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:6969/writeups/tryhackme/valley/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:6969/writeups/tryhackme/valley/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
