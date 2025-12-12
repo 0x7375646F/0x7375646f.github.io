@@ -1,6 +1,6 @@
 ---
 title: Valley Writeup - TryHackMe
-date: 2024-12-03
+date: 2025-12-12
 draft: false
 tags:
   - Linux
